@@ -1,5 +1,0 @@
-pandas==2.0.0
-scikit-learn
-joblib
-streamlit
-pickle
