@@ -1,6 +1,6 @@
 from lib import *
 from model import *
-from nerusingcrf import *
+from model import *
 
 # Mapping warna untuk setiap tag
 TAG_COLOR_MAP = {
