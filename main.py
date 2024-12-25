@@ -1,3 +1,5 @@
+import pandas as pd
+import streamlit as st
 from lib import *
 from model import *
 from model import *
