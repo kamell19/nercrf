@@ -3,4 +3,3 @@ pip==23.1.2
 scikit-learn
 joblib
 streamlit
-pickle
